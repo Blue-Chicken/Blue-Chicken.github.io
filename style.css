@@ -3,3 +3,8 @@
 body {
   font-family: 'Nunito';
 }
+
+button {
+  border:none;
+  color:white;
+}
